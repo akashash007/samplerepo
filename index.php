@@ -12,6 +12,10 @@
     echo "hello world";
     echo "hello world";
     ?>
+
+    <p>Lorem, ipsum dolor.</p>
+    <p>Lorem ipsum dolor sit.</p>
+
 </body>
 
 </html>
